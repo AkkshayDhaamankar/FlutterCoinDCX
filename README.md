@@ -1,5 +1,5 @@
 # FlutterCoinDCX
-Developed CoinDCX UI Screen using Flutter (https://play.google.com/store/apps/details?id=com.coindcx&hl=en_IN)
+Developed Cryptocurrency CoinDCX UI Screen using Flutter (UI CREDITS :- https://play.google.com/store/apps/details?id=com.coindcx&hl=en_IN)
 
 Description:-
 1. Used CoinAPI (https://docs.coinapi.io/) for making HTTP Request and Fetching Data From Network.
