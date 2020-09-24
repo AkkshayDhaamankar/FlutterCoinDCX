@@ -1,5 +1,6 @@
 # FlutterCoinDCX
 Developed CoinDCX UI Screen using Flutter (https://play.google.com/store/apps/details?id=com.coindcx&hl=en_IN)
+
 Description:-
 1. CoinAPI (https://docs.coinapi.io/) for making HTTP Request and Fetching Data From Network.
 2. Used Clean Architecture and Test Driven Development(TDD).
@@ -13,3 +14,8 @@ Description:-
 ![CoinDcxGIF](https://user-images.githubusercontent.com/25646373/94178774-29170200-feb9-11ea-8314-7167038aca9e.gif)
 
 # Clean Architecture :- Where each layer is independent of other layer
+![Clean-Architecture-Flutter-Diagram](https://user-images.githubusercontent.com/25646373/94179177-c5d99f80-feb9-11ea-8599-42135b29036b.png)
+
+# Test Cases :- All tests passed (TDD)
+
+
